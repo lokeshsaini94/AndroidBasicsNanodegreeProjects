@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="email_summary_app_credits">कॉफी आदेश सिर्फ जावा अनुप्रयोग का उपयोग</string>
+    <string name="email_summary_that_will_be">आपका आदेश दे दिया गया है।\\nराशि का भुगतान किया है ₹</string>
+    <string name="max_coffee">आप के लिए कोई और अधिक कॉफी !.</string>
+    <string name="min_coffee">आप कम से कम 1 कॉफी आदेश कर सकते हैं।</string>
+    <string name="name_hint">अपना नाम दर्ज करें</string>
+    <string name="order">व्यवस्था</string>
+    <string name="order_summary_name">"नाम: "</string>
+    <string name="quantity">मात्रा</string>
+    <string name="summary">सारांश</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="update_summary">अद्यतन सारांश</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="order_summary_chocolate">\\nचॉकलेट जोड़ा। (₹ 10 प्रत्येक)</string>
+    <string name="order_summary_per_coffee">\\nकीमत कॉफी के अनुसार:</string>
+    <string name="order_summary_quantity">"\\nमात्रा: "</string>
+    <string name="order_summary_thank_you">\\nधन्यवाद।</string>
+    <string name="order_summary_total_bill">"\\nकुल बिल: "</string>
+    <string name="order_summary_whipped_cream">\\nक्रीम मार पड़ी है जोड़ा। (₹ 5 प्रत्येक)</string>
+</resources>

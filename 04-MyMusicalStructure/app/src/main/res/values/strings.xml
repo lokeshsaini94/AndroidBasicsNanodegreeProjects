@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Musical Structure</string>
+    <string name="artist_description">Nucleya started his musical journey towards the end of \'90s when he co-founded Bandish Projekt. Since then, he has released 14 singles, studio albums and numerous collaborations.\nHe has performed at numerous music festivals around the world including Glastonbury, Edinburgh Fringe Festival, Lille 3000 and the Electron Festival, where he performed alongside artists like Diplo and Modeselektor.</string>
+    <string name="artist_name">NUCLEYA</string>
+    <string name="songs">SONGS</string>
+    <string name="player">Player</string>
+</resources>

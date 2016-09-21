@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="is_this_year_2016">Is this year 2016?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="what_s_4_4">What\'s 4*4?</string>
+    <string name="what_number_are_in_rage_of_3_9">What number are in rage of 3-9?</string>
+    <string name="select_the_number_2_icon">Select the number 2 icon</string>
+    <string name="results">Results</string>
+    <string name="default_results">Tap on Fab button for results</string>
+    <string name="wrong">Wrong</string>
+    <string name="correct">Correct</string>
+    <string name="hello">"Hello "</string>
+    <string name="question1">"\nQuestion 1: "</string>
+    <string name="question2">"\nQuestion 2: "</string>
+    <string name="question3">"\nQuestion 3: "</string>
+    <string name="question4">"\nQuestion 4: "</string>
+    <string name="question5">"\nQuestion 5: "</string>
+    <string name="donald_trump">Should Donald Trump be USA\'s next president? (yes/no)</string>
+</resources>

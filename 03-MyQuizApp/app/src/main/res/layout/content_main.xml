@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="lokeshsaini.myquizapp.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/donald_trump" />
+
+        <EditText
+            android:id="@+id/q1_trump"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:hint="Answer" />
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/is_this_year_2016" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/q2_yes"
+                style="@style/Question2"
+                android:text="@string/yes" />
+
+            <TextView
+                android:id="@+id/q2_no"
+                style="@style/Question2"
+                android:text="@string/no" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/what_s_4_4" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/q3_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="16dp"
+                android:text="16" />
+
+            <RadioButton
+                android:id="@+id/q3_24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="24" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/what_number_are_in_rage_of_3_9" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/q4_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="2" />
+
+            <CheckBox
+                android:id="@+id/q4_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="9" />
+
+            <CheckBox
+                android:id="@+id/q4_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="5" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/select_the_number_2_icon" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/q5_1"
+                style="@style/Question5"
+                android:src="@drawable/ic_looks_one_white_24dp" />
+
+            <ImageView
+                android:id="@+id/q5_2"
+                style="@style/Question5"
+                android:src="@drawable/ic_looks_two_white_24dp" />
+
+            <ImageView
+                android:id="@+id/q5_3"
+                style="@style/Question5"
+                android:src="@drawable/ic_looks_3_white_24dp" />
+
+            <ImageView
+                android:id="@+id/q5_4"
+                style="@style/Question5"
+                android:src="@drawable/ic_looks_4_white_24dp" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/QuestionTitles"
+            android:text="@string/results" />
+
+        <TextView
+            android:id="@+id/results"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:text="@string/default_results" />
+
+    </LinearLayout>
+
+</ScrollView>
