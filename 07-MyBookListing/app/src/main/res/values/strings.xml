@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Book Listing</string>
+    <string name="et_hint">Enter your Query</string>
+    <string name="bt_search">Search</string>
+    <string name="book_title">Title</string>
+    <string name="book_author">Author(s)</string>
+    <string name="empty">Empty</string>
+</resources>

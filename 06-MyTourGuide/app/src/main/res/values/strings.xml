@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Tour Guide</string>
+
+    <string name="shopping1Name">Dilli Haat</string>
+    <string name="shopping2Name">Janpath Market</string>
+    <string name="shopping3Name">Khan Market</string>
+    <string name="shopping4Name">Karol Bagh</string>
+    <string name="shopping5Name">Chandni Chowk</string>
+    <string name="shopping1Desc">Address: Sri Aurobindo Marg, Laxmi Bai Nagar, New Delhi</string>
+    <string name="shopping2Desc">Address: Connaught Place, New Delhi</string>
+    <string name="shopping3Desc">Address: Khan Market, New Delhi</string>
+    <string name="shopping4Desc">Address: Karol Bagh, New Delhi</string>
+    <string name="shopping5Desc">Address: Chandni Chowk, Old Delhi, Delhi</string>
+
+    <string name="restaurant1Name">Lotusleaf</string>
+    <string name="restaurant2Name">Bukhara</string>
+    <string name="restaurant3Name">Eleven Course</string>
+    <string name="restaurant4Name">Zaffran</string>
+    <string name="restaurant5Name">Varq</string>
+    <string name="restaurant1Desc">Address: F-104, PVR Fun City Mall, Sector 14, Prashant Vihar, Rohini, New Delhi</string>
+    <string name="restaurant2Desc">Address: Hotel ITC Maurya, Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi</string>
+    <string name="restaurant3Desc">Address: NDM - ll, Netaji Subash Place, Wazirpur, New Delhi</string>
+    <string name="restaurant4Desc">Address: Hotel Palace Heights, D-26/28, Radial Road No.6, Behind Odeon Big Cinema, Connaught Place, New Delhi</string>
+    <string name="restaurant5Desc">Address: The Taj Mahal Hotel, No. 1, Mansingh Road, New Delhi</string>
+
+    <string name="event1Name">Global Citizen Festival India 2016</string>
+    <string name="event2Name">Enchanted Valley Carnival 2016</string>
+    <string name="event3Name">Sunburn Arena: Go Hardwell Or Go Home</string>
+    <string name="event4Name">FILM FEST</string>
+    <string name="event5Name">National Festival of Dance and Music</string>
+    <string name="event1Desc">Address: MMRDA Grounds, Mumbai, India</string>
+    <string name="event2Desc">Address: Aamby Valley City, Lonavala</string>
+    <string name="event3Desc">Address: Jawaharlal Nehru Stadium, Delhi</string>
+    <string name="event4Desc">Address: Lodhi Estate, New Delhi</string>
+    <string name="event5Desc">Address: Kamani Auditorium, Copernicus Marg</string>
+
+    <string name="sites1Name">The Red Fort</string>
+    <string name="sites2Name">India Gate</string>
+    <string name="sites3Name">Qutb Minar</string>
+    <string name="sites4Name">Akshardham</string>
+    <string name="sites5Name">Lotus Temple</string>
+    <string name="sites1Desc">Address: Netaji Subhash Marg, Chandni Chowk, New Delhi</string>
+    <string name="sites2Desc">Address: Rajpath, India Gate, New Delhi</string>
+    <string name="sites3Desc">Address: Mehrauli, New Delhi</string>
+    <string name="sites4Desc">Address: Noida Mor, New Delhi</string>
+    <string name="sites5Desc">Address: Shambhu Dayal Bagh, Bahapur, Kalkaji, New Delhi</string>
+    <string name="events">Events</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping">Shopping</string>
+    <string name="sites">Sites</string>
+
+</resources>
