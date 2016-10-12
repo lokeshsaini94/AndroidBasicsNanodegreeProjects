@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My News App</string>
+    <string name="et_hint">Enter your Query</string>
+    <string name="bt_search">Search</string>
+    <string name="empty">No results found</string>
+    <string name="search_news">Nothing to Display</string>
+</resources>
